@@ -12,7 +12,7 @@ import os
 
 storage = MemoryStorage()
 #load_dotenv()
-bot = Bot('6932608380:AAEgm1JTjb5LoJM34uLAfNkAjcdj3t7cHsQ')
+bot = Bot('')
 dp = Dispatcher(bot=bot, storage=storage)
 
 
